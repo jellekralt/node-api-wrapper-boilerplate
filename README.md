@@ -1,2 +1,2 @@
-# node-api-wrapper-boilerplate
+# Node.js API Wrapper Boilerplates
 Boilerplates for Node.js API wrappers
